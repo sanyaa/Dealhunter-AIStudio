@@ -1,0 +1,7 @@
+{
+  "name": "DealHunter AI - Corporate",
+  "description": "Enterprise-grade corporate website for DealHunter AI featuring glassmorphism, neon aesthetics, and modern interactive pages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
